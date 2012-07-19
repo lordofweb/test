@@ -1,11 +1,13 @@
 <?php
 echo 'test';
-echo ' j\'écris plus haut '."fdsfq";
+echo ' j\'ï¿½cris plus haut '."fdsfq";
 echo '2eme test';
 
 echo 'hello world';
 
 echo '3e test';
+
+echo '4eme test en ligne';
 
 
 
